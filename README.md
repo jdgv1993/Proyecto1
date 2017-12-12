@@ -1,3 +1,3 @@
 # Proyecto1
 Proyecto1
-![Alt text](waspmote.png?raw=true "esto es una waspmote")
+![Alt text](waspmote.png?raw=true "Optional Title")
